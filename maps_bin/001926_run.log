@@ -1,0 +1,347 @@
+[2022-11-11 17:45:48.527] [    info] [             sequencer] Start new run
+[2022-11-11 17:45:48.639] [    info] [             sequencer] Start FG calibration
+[2022-11-11 17:45:51.888] [    info] [             sequencer] move to r=0
+[2022-11-11 17:45:55.159] [    info] [             sequencer] rotate phi to -5
+[2022-11-11 17:45:58.417] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 17:46:01.666] [    info] [             sequencer] start calibration cycle at rot=0
+[2022-11-11 17:46:01.708] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 17:46:59.965] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 17:47:59.214] [    info] [             sequencer] rotate Fluxgate 0->180
+[2022-11-11 17:48:11.476] [    info] [             sequencer] rotate Fluxgate done
+[2022-11-11 17:48:21.752] [    info] [             sequencer] move to r=0
+[2022-11-11 17:48:25.025] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 17:48:28.274] [    info] [             sequencer] start calibration cycle at rot=180
+[2022-11-11 17:48:28.316] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 17:49:26.571] [    info] [             sequencer] rotate phi to -5
+[2022-11-11 17:50:25.814] [    info] [             sequencer] rotate Fluxgate 180->0
+[2022-11-11 17:50:45.074] [    info] [             sequencer] rotate Fluxgate done
+[2022-11-11 17:50:45.125] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 17:50:48.379] [    info] [             sequencer] goto r=-10
+[2022-11-11 17:50:50.643] [    info] [             sequencer] goto r=0
+[2022-11-11 17:50:53.953] [    info] [             sequencer] ** Full map start, counter: 0
+[2022-11-11 17:50:53.994] [    info] [             sequencer] move mapper to the center
+[2022-11-11 17:50:55.715] [    info] [             sequencer] goto z=410
+[2022-11-11 17:51:24.982] [    info] [             sequencer] goto z=-410
+[2022-11-11 17:52:21.240] [    info] [             sequencer] goto z=0
+[2022-11-11 17:52:50.586] [    info] [             sequencer] goto z=410
+[2022-11-11 17:53:19.850] [    info] [             sequencer] goto z=-410
+[2022-11-11 17:54:16.100] [    info] [             sequencer] goto z=0
+[2022-11-11 17:54:45.440] [    info] [             sequencer] goto z=410
+[2022-11-11 17:55:14.701] [    info] [             sequencer] goto z=-410
+[2022-11-11 17:56:10.961] [    info] [             sequencer] goto z=0
+[2022-11-11 17:56:40.312] [    info] [             sequencer] goto z=410
+[2022-11-11 17:57:09.573] [    info] [             sequencer] goto z=-410
+[2022-11-11 17:58:05.824] [    info] [             sequencer] goto z=0
+[2022-11-11 17:58:35.175] [    info] [             sequencer] goto z=410
+[2022-11-11 17:59:04.444] [    info] [             sequencer] goto z=-410
+[2022-11-11 18:00:00.693] [    info] [             sequencer] goto z=0
+[2022-11-11 18:00:30.034] [    info] [             sequencer] move mapper to the center
+[2022-11-11 18:00:30.442] [    info] [             sequencer] Start FG calibration
+[2022-11-11 18:00:32.698] [    info] [             sequencer] move to r=0
+[2022-11-11 18:00:34.969] [    info] [             sequencer] rotate phi to -5
+[2022-11-11 18:00:38.229] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 18:00:41.473] [    info] [             sequencer] start calibration cycle at rot=0
+[2022-11-11 18:00:41.514] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 18:01:17.763] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 18:01:55.640] [    info] [             sequencer] start of z loop z=-410
+[2022-11-11 18:01:55.672] [    info] [             sequencer] goto z=-410
+[2022-11-11 18:02:24.954] [    info] [             sequencer] goto phi=-5
+[2022-11-11 18:02:25.753] [    info] [             sequencer] goto r=0
+[2022-11-11 18:02:29.009] [    info] [             sequencer] start ring at z=-410 and r=0
+[2022-11-11 18:03:43.078] [    info] [             sequencer] goto r=80
+[2022-11-11 18:03:51.328] [    info] [             sequencer] start ring at z=-410 and r=80
+[2022-11-11 18:05:05.401] [    info] [             sequencer] goto r=160
+[2022-11-11 18:05:13.657] [    info] [             sequencer] start ring at z=-410 and r=160
+[2022-11-11 18:06:27.731] [    info] [             sequencer] goto r=240
+[2022-11-11 18:06:35.979] [    info] [             sequencer] start ring at z=-410 and r=240
+[2022-11-11 18:07:50.058] [    info] [             sequencer] goto r=320
+[2022-11-11 18:07:58.308] [    info] [             sequencer] start ring at z=-410 and r=320
+[2022-11-11 18:09:12.383] [    info] [             sequencer] goto r=400
+[2022-11-11 18:09:20.638] [    info] [             sequencer] start ring at z=-410 and r=400
+[2022-11-11 18:10:34.710] [    info] [             sequencer] goto r=480
+[2022-11-11 18:10:42.963] [    info] [             sequencer] start ring at z=-410 and r=480
+[2022-11-11 18:11:58.044] [    info] [             sequencer] goto r=560
+[2022-11-11 18:12:06.293] [    info] [             sequencer] start ring at z=-410 and r=560
+[2022-11-11 18:13:20.369] [    info] [             sequencer] goto r=640
+[2022-11-11 18:13:28.621] [    info] [             sequencer] start ring at z=-410 and r=640
+[2022-11-11 18:14:42.688] [    info] [             sequencer] goto r=720
+[2022-11-11 18:14:50.934] [    info] [             sequencer] start ring at z=-410 and r=720
+[2022-11-11 18:16:05.009] [    info] [             sequencer] goto r=780
+[2022-11-11 18:16:11.263] [    info] [             sequencer] start ring at z=-410 and r=780
+[2022-11-11 18:17:25.412] [    info] [             sequencer] start of z loop z=-320
+[2022-11-11 18:17:25.443] [    info] [             sequencer] goto z=-320
+[2022-11-11 18:17:32.718] [    info] [             sequencer] goto phi=-5
+[2022-11-11 18:17:33.513] [    info] [             sequencer] goto r=0
+[2022-11-11 18:18:29.768] [    info] [             sequencer] start ring at z=-320 and r=0
+[2022-11-11 18:19:43.854] [    info] [             sequencer] goto r=80
+[2022-11-11 18:19:52.108] [    info] [             sequencer] start ring at z=-320 and r=80
+[2022-11-11 18:21:06.187] [    info] [             sequencer] goto r=160
+[2022-11-11 18:21:14.438] [    info] [             sequencer] start ring at z=-320 and r=160
+[2022-11-11 18:22:28.517] [    info] [             sequencer] goto r=240
+[2022-11-11 18:22:36.762] [    info] [             sequencer] start ring at z=-320 and r=240
+[2022-11-11 18:23:50.843] [    info] [             sequencer] goto r=320
+[2022-11-11 18:23:59.096] [    info] [             sequencer] start ring at z=-320 and r=320
+[2022-11-11 18:25:13.172] [    info] [             sequencer] goto r=400
+[2022-11-11 18:25:21.435] [    info] [             sequencer] start ring at z=-320 and r=400
+[2022-11-11 18:26:35.502] [    info] [             sequencer] goto r=480
+[2022-11-11 18:26:43.754] [    info] [             sequencer] start ring at z=-320 and r=480
+[2022-11-11 18:27:57.828] [    info] [             sequencer] goto r=560
+[2022-11-11 18:28:06.081] [    info] [             sequencer] start ring at z=-320 and r=560
+[2022-11-11 18:29:20.156] [    info] [             sequencer] goto r=640
+[2022-11-11 18:29:28.415] [    info] [             sequencer] start ring at z=-320 and r=640
+[2022-11-11 18:30:42.485] [    info] [             sequencer] goto r=720
+[2022-11-11 18:30:50.744] [    info] [             sequencer] start ring at z=-320 and r=720
+[2022-11-11 18:32:04.823] [    info] [             sequencer] goto r=780
+[2022-11-11 18:32:11.078] [    info] [             sequencer] start ring at z=-320 and r=780
+[2022-11-11 18:33:26.222] [    info] [             sequencer] start of z loop z=-240
+[2022-11-11 18:33:26.252] [    info] [             sequencer] goto z=-240
+[2022-11-11 18:33:33.525] [    info] [             sequencer] goto phi=-5
+[2022-11-11 18:33:34.303] [    info] [             sequencer] goto r=0
+[2022-11-11 18:34:30.556] [    info] [             sequencer] start ring at z=-240 and r=0
+[2022-11-11 18:35:45.633] [    info] [             sequencer] goto r=80
+[2022-11-11 18:35:53.878] [    info] [             sequencer] start ring at z=-240 and r=80
+[2022-11-11 18:37:07.959] [    info] [             sequencer] goto r=160
+[2022-11-11 18:37:16.208] [    info] [             sequencer] start ring at z=-240 and r=160
+[2022-11-11 18:38:31.286] [    info] [             sequencer] goto r=240
+[2022-11-11 18:38:39.546] [    info] [             sequencer] start ring at z=-240 and r=240
+[2022-11-11 18:39:53.624] [    info] [             sequencer] goto r=320
+[2022-11-11 18:40:01.879] [    info] [             sequencer] start ring at z=-240 and r=320
+[2022-11-11 18:41:15.954] [    info] [             sequencer] goto r=400
+[2022-11-11 18:41:24.207] [    info] [             sequencer] start ring at z=-240 and r=400
+[2022-11-11 18:42:38.285] [    info] [             sequencer] goto r=480
+[2022-11-11 18:42:46.534] [    info] [             sequencer] start ring at z=-240 and r=480
+[2022-11-11 18:44:01.607] [    info] [             sequencer] goto r=560
+[2022-11-11 18:44:09.861] [    info] [             sequencer] start ring at z=-240 and r=560
+[2022-11-11 18:45:24.930] [    info] [             sequencer] goto r=640
+[2022-11-11 18:45:33.184] [    info] [             sequencer] start ring at z=-240 and r=640
+[2022-11-11 18:46:47.264] [    info] [             sequencer] goto r=720
+[2022-11-11 18:46:55.521] [    info] [             sequencer] start ring at z=-240 and r=720
+[2022-11-11 18:48:09.597] [    info] [             sequencer] goto r=780
+[2022-11-11 18:48:15.854] [    info] [             sequencer] start ring at z=-240 and r=780
+[2022-11-11 18:49:30.014] [    info] [             sequencer] start of z loop z=-160
+[2022-11-11 18:49:30.044] [    info] [             sequencer] goto z=-160
+[2022-11-11 18:49:37.324] [    info] [             sequencer] goto phi=-5
+[2022-11-11 18:49:38.122] [    info] [             sequencer] goto r=0
+[2022-11-11 18:50:34.372] [    info] [             sequencer] start ring at z=-160 and r=0
+[2022-11-11 18:51:48.459] [    info] [             sequencer] goto r=80
+[2022-11-11 18:51:56.715] [    info] [             sequencer] start ring at z=-160 and r=80
+[2022-11-11 18:53:10.797] [    info] [             sequencer] goto r=160
+[2022-11-11 18:53:19.056] [    info] [             sequencer] start ring at z=-160 and r=160
+[2022-11-11 18:54:33.128] [    info] [             sequencer] goto r=240
+[2022-11-11 18:54:41.383] [    info] [             sequencer] start ring at z=-160 and r=240
+[2022-11-11 18:55:55.468] [    info] [             sequencer] goto r=320
+[2022-11-11 18:56:03.718] [    info] [             sequencer] start ring at z=-160 and r=320
+[2022-11-11 18:57:17.793] [    info] [             sequencer] goto r=400
+[2022-11-11 18:57:26.048] [    info] [             sequencer] start ring at z=-160 and r=400
+[2022-11-11 18:58:40.110] [    info] [             sequencer] goto r=480
+[2022-11-11 18:58:48.372] [    info] [             sequencer] start ring at z=-160 and r=480
+[2022-11-11 19:00:03.446] [    info] [             sequencer] goto r=560
+[2022-11-11 19:00:11.701] [    info] [             sequencer] start ring at z=-160 and r=560
+[2022-11-11 19:01:25.779] [    info] [             sequencer] goto r=640
+[2022-11-11 19:01:34.031] [    info] [             sequencer] start ring at z=-160 and r=640
+[2022-11-11 19:02:49.103] [    info] [             sequencer] goto r=720
+[2022-11-11 19:02:57.356] [    info] [             sequencer] start ring at z=-160 and r=720
+[2022-11-11 19:04:11.437] [    info] [             sequencer] goto r=780
+[2022-11-11 19:04:17.685] [    info] [             sequencer] start ring at z=-160 and r=780
+[2022-11-11 19:05:31.840] [    info] [             sequencer] start of z loop z=-80
+[2022-11-11 19:05:31.872] [    info] [             sequencer] goto z=-80
+[2022-11-11 19:05:39.153] [    info] [             sequencer] goto phi=-5
+[2022-11-11 19:05:39.947] [    info] [             sequencer] goto r=0
+[2022-11-11 19:06:36.198] [    info] [             sequencer] start ring at z=-80 and r=0
+[2022-11-11 19:07:50.271] [    info] [             sequencer] goto r=80
+[2022-11-11 19:07:58.517] [    info] [             sequencer] start ring at z=-80 and r=80
+[2022-11-11 19:09:13.587] [    info] [             sequencer] goto r=160
+[2022-11-11 19:09:21.836] [    info] [             sequencer] start ring at z=-80 and r=160
+[2022-11-11 19:10:35.913] [    info] [             sequencer] goto r=240
+[2022-11-11 19:10:44.159] [    info] [             sequencer] start ring at z=-80 and r=240
+[2022-11-11 19:11:58.238] [    info] [             sequencer] goto r=320
+[2022-11-11 19:12:06.497] [    info] [             sequencer] start ring at z=-80 and r=320
+[2022-11-11 19:13:20.573] [    info] [             sequencer] goto r=400
+[2022-11-11 19:13:28.821] [    info] [             sequencer] start ring at z=-80 and r=400
+[2022-11-11 19:14:42.888] [    info] [             sequencer] goto r=480
+[2022-11-11 19:14:51.147] [    info] [             sequencer] start ring at z=-80 and r=480
+[2022-11-11 19:16:05.221] [    info] [             sequencer] goto r=560
+[2022-11-11 19:16:13.479] [    info] [             sequencer] start ring at z=-80 and r=560
+[2022-11-11 19:17:27.559] [    info] [             sequencer] goto r=640
+[2022-11-11 19:17:35.819] [    info] [             sequencer] start ring at z=-80 and r=640
+[2022-11-11 19:18:49.894] [    info] [             sequencer] goto r=720
+[2022-11-11 19:18:58.144] [    info] [             sequencer] start ring at z=-80 and r=720
+[2022-11-11 19:20:12.212] [    info] [             sequencer] goto r=780
+[2022-11-11 19:20:18.471] [    info] [             sequencer] start ring at z=-80 and r=780
+[2022-11-11 19:21:33.624] [    info] [             sequencer] start of z loop z=0
+[2022-11-11 19:21:33.656] [    info] [             sequencer] goto z=0
+[2022-11-11 19:21:40.931] [    info] [             sequencer] goto phi=-5
+[2022-11-11 19:21:41.723] [    info] [             sequencer] goto r=0
+[2022-11-11 19:22:37.971] [    info] [             sequencer] start ring at z=0 and r=0
+[2022-11-11 19:23:52.038] [    info] [             sequencer] goto r=80
+[2022-11-11 19:24:00.295] [    info] [             sequencer] start ring at z=0 and r=80
+[2022-11-11 19:25:15.371] [    info] [             sequencer] goto r=160
+[2022-11-11 19:25:23.623] [    info] [             sequencer] start ring at z=0 and r=160
+[2022-11-11 19:26:37.701] [    info] [             sequencer] goto r=240
+[2022-11-11 19:26:45.957] [    info] [             sequencer] start ring at z=0 and r=240
+[2022-11-11 19:28:00.035] [    info] [             sequencer] goto r=320
+[2022-11-11 19:28:08.288] [    info] [             sequencer] start ring at z=0 and r=320
+[2022-11-11 19:29:23.362] [    info] [             sequencer] goto r=400
+[2022-11-11 19:29:31.617] [    info] [             sequencer] start ring at z=0 and r=400
+[2022-11-11 19:30:45.703] [    info] [             sequencer] goto r=480
+[2022-11-11 19:30:53.962] [    info] [             sequencer] start ring at z=0 and r=480
+[2022-11-11 19:32:09.042] [    info] [             sequencer] goto r=560
+[2022-11-11 19:32:17.301] [    info] [             sequencer] start ring at z=0 and r=560
+[2022-11-11 19:33:32.371] [    info] [             sequencer] goto r=640
+[2022-11-11 19:33:40.626] [    info] [             sequencer] start ring at z=0 and r=640
+[2022-11-11 19:34:54.698] [    info] [             sequencer] goto r=720
+[2022-11-11 19:35:02.956] [    info] [             sequencer] start ring at z=0 and r=720
+[2022-11-11 19:36:18.028] [    info] [             sequencer] goto r=780
+[2022-11-11 19:36:24.278] [    info] [             sequencer] start ring at z=0 and r=780
+[2022-11-11 19:37:39.440] [    info] [             sequencer] start of z loop z=80
+[2022-11-11 19:37:39.472] [    info] [             sequencer] goto z=80
+[2022-11-11 19:37:46.751] [    info] [             sequencer] goto phi=-5
+[2022-11-11 19:37:47.544] [    info] [             sequencer] goto r=0
+[2022-11-11 19:38:43.797] [    info] [             sequencer] start ring at z=80 and r=0
+[2022-11-11 19:39:58.886] [    info] [             sequencer] goto r=80
+[2022-11-11 19:40:07.134] [    info] [             sequencer] start ring at z=80 and r=80
+[2022-11-11 19:41:21.219] [    info] [             sequencer] goto r=160
+[2022-11-11 19:41:29.473] [    info] [             sequencer] start ring at z=80 and r=160
+[2022-11-11 19:42:43.550] [    info] [             sequencer] goto r=240
+[2022-11-11 19:42:51.801] [    info] [             sequencer] start ring at z=80 and r=240
+[2022-11-11 19:44:05.875] [    info] [             sequencer] goto r=320
+[2022-11-11 19:44:14.132] [    info] [             sequencer] start ring at z=80 and r=320
+[2022-11-11 19:45:29.202] [    info] [             sequencer] goto r=400
+[2022-11-11 19:45:37.452] [    info] [             sequencer] start ring at z=80 and r=400
+[2022-11-11 19:46:52.523] [    info] [             sequencer] goto r=480
+[2022-11-11 19:47:00.784] [    info] [             sequencer] start ring at z=80 and r=480
+[2022-11-11 19:48:14.865] [    info] [             sequencer] goto r=560
+[2022-11-11 19:48:23.122] [    info] [             sequencer] start ring at z=80 and r=560
+[2022-11-11 19:49:37.193] [    info] [             sequencer] goto r=640
+[2022-11-11 19:49:45.444] [    info] [             sequencer] start ring at z=80 and r=640
+[2022-11-11 19:50:59.525] [    info] [             sequencer] goto r=720
+[2022-11-11 19:51:07.779] [    info] [             sequencer] start ring at z=80 and r=720
+[2022-11-11 19:52:21.865] [    info] [             sequencer] goto r=780
+[2022-11-11 19:52:28.121] [    info] [             sequencer] start ring at z=80 and r=780
+[2022-11-11 19:53:42.291] [    info] [             sequencer] start of z loop z=160
+[2022-11-11 19:53:42.322] [    info] [             sequencer] goto z=160
+[2022-11-11 19:53:49.593] [    info] [             sequencer] goto phi=-5
+[2022-11-11 19:53:50.387] [    info] [             sequencer] goto r=0
+[2022-11-11 19:54:46.640] [    info] [             sequencer] start ring at z=160 and r=0
+[2022-11-11 19:56:00.729] [    info] [             sequencer] goto r=80
+[2022-11-11 19:56:08.984] [    info] [             sequencer] start ring at z=160 and r=80
+[2022-11-11 19:57:24.057] [    info] [             sequencer] goto r=160
+[2022-11-11 19:57:32.314] [    info] [             sequencer] start ring at z=160 and r=160
+[2022-11-11 19:58:46.392] [    info] [             sequencer] goto r=240
+[2022-11-11 19:58:54.646] [    info] [             sequencer] start ring at z=160 and r=240
+[2022-11-11 20:00:08.720] [    info] [             sequencer] goto r=320
+[2022-11-11 20:00:16.972] [    info] [             sequencer] start ring at z=160 and r=320
+[2022-11-11 20:01:31.050] [    info] [             sequencer] goto r=400
+[2022-11-11 20:01:39.311] [    info] [             sequencer] start ring at z=160 and r=400
+[2022-11-11 20:02:53.378] [    info] [             sequencer] goto r=480
+[2022-11-11 20:03:01.635] [    info] [             sequencer] start ring at z=160 and r=480
+[2022-11-11 20:04:15.714] [    info] [             sequencer] goto r=560
+[2022-11-11 20:04:23.964] [    info] [             sequencer] start ring at z=160 and r=560
+[2022-11-11 20:05:39.040] [    info] [             sequencer] goto r=640
+[2022-11-11 20:05:47.297] [    info] [             sequencer] start ring at z=160 and r=640
+[2022-11-11 20:07:01.372] [    info] [             sequencer] goto r=720
+[2022-11-11 20:07:09.628] [    info] [             sequencer] start ring at z=160 and r=720
+[2022-11-11 20:08:24.700] [    info] [             sequencer] goto r=780
+[2022-11-11 20:08:30.955] [    info] [             sequencer] start ring at z=160 and r=780
+[2022-11-11 20:09:45.107] [    info] [             sequencer] start of z loop z=240
+[2022-11-11 20:09:45.135] [    info] [             sequencer] goto z=240
+[2022-11-11 20:09:52.414] [    info] [             sequencer] goto phi=-5
+[2022-11-11 20:09:53.215] [    info] [             sequencer] goto r=0
+[2022-11-11 20:10:49.482] [    info] [             sequencer] start ring at z=240 and r=0
+[2022-11-11 20:12:04.561] [    info] [             sequencer] goto r=80
+[2022-11-11 20:12:12.816] [    info] [             sequencer] start ring at z=240 and r=80
+[2022-11-11 20:13:26.892] [    info] [             sequencer] goto r=160
+[2022-11-11 20:13:35.142] [    info] [             sequencer] start ring at z=240 and r=160
+[2022-11-11 20:14:49.208] [    info] [             sequencer] goto r=240
+[2022-11-11 20:14:57.466] [    info] [             sequencer] start ring at z=240 and r=240
+[2022-11-11 20:16:11.543] [    info] [             sequencer] goto r=320
+[2022-11-11 20:16:19.799] [    info] [             sequencer] start ring at z=240 and r=320
+[2022-11-11 20:17:33.881] [    info] [             sequencer] goto r=400
+[2022-11-11 20:17:42.140] [    info] [             sequencer] start ring at z=240 and r=400
+[2022-11-11 20:18:56.221] [    info] [             sequencer] goto r=480
+[2022-11-11 20:19:04.479] [    info] [             sequencer] start ring at z=240 and r=480
+[2022-11-11 20:20:18.556] [    info] [             sequencer] goto r=560
+[2022-11-11 20:20:26.817] [    info] [             sequencer] start ring at z=240 and r=560
+[2022-11-11 20:21:40.900] [    info] [             sequencer] goto r=640
+[2022-11-11 20:21:49.152] [    info] [             sequencer] start ring at z=240 and r=640
+[2022-11-11 20:23:03.231] [    info] [             sequencer] goto r=720
+[2022-11-11 20:23:11.488] [    info] [             sequencer] start ring at z=240 and r=720
+[2022-11-11 20:24:25.566] [    info] [             sequencer] goto r=780
+[2022-11-11 20:24:31.818] [    info] [             sequencer] start ring at z=240 and r=780
+[2022-11-11 20:25:45.964] [    info] [             sequencer] start of z loop z=320
+[2022-11-11 20:25:45.996] [    info] [             sequencer] goto z=320
+[2022-11-11 20:25:53.268] [    info] [             sequencer] goto phi=-5
+[2022-11-11 20:25:54.054] [    info] [             sequencer] goto r=0
+[2022-11-11 20:26:50.306] [    info] [             sequencer] start ring at z=320 and r=0
+[2022-11-11 20:28:04.383] [    info] [             sequencer] goto r=80
+[2022-11-11 20:28:12.634] [    info] [             sequencer] start ring at z=320 and r=80
+[2022-11-11 20:29:26.697] [    info] [             sequencer] goto r=160
+[2022-11-11 20:29:34.956] [    info] [             sequencer] start ring at z=320 and r=160
+[2022-11-11 20:30:49.037] [    info] [             sequencer] goto r=240
+[2022-11-11 20:30:57.292] [    info] [             sequencer] start ring at z=320 and r=240
+[2022-11-11 20:32:11.377] [    info] [             sequencer] goto r=320
+[2022-11-11 20:32:19.636] [    info] [             sequencer] start ring at z=320 and r=320
+[2022-11-11 20:33:33.726] [    info] [             sequencer] goto r=400
+[2022-11-11 20:33:41.987] [    info] [             sequencer] start ring at z=320 and r=400
+[2022-11-11 20:34:57.065] [    info] [             sequencer] goto r=480
+[2022-11-11 20:35:05.309] [    info] [             sequencer] start ring at z=320 and r=480
+[2022-11-11 20:36:19.395] [    info] [             sequencer] goto r=560
+[2022-11-11 20:36:27.645] [    info] [             sequencer] start ring at z=320 and r=560
+[2022-11-11 20:37:41.729] [    info] [             sequencer] goto r=640
+[2022-11-11 20:37:49.975] [    info] [             sequencer] start ring at z=320 and r=640
+[2022-11-11 20:39:05.055] [    info] [             sequencer] goto r=720
+[2022-11-11 20:39:13.309] [    info] [             sequencer] start ring at z=320 and r=720
+[2022-11-11 20:40:28.384] [    info] [             sequencer] goto r=780
+[2022-11-11 20:40:34.633] [    info] [             sequencer] start ring at z=320 and r=780
+[2022-11-11 20:41:49.784] [    info] [             sequencer] start of z loop z=410
+[2022-11-11 20:41:49.812] [    info] [             sequencer] goto z=410
+[2022-11-11 20:41:57.089] [    info] [             sequencer] goto phi=-5
+[2022-11-11 20:41:57.879] [    info] [             sequencer] goto r=0
+[2022-11-11 20:42:54.136] [    info] [             sequencer] start ring at z=410 and r=0
+[2022-11-11 20:44:08.219] [    info] [             sequencer] goto r=80
+[2022-11-11 20:44:16.473] [    info] [             sequencer] start ring at z=410 and r=80
+[2022-11-11 20:45:30.550] [    info] [             sequencer] goto r=160
+[2022-11-11 20:45:38.806] [    info] [             sequencer] start ring at z=410 and r=160
+[2022-11-11 20:46:53.875] [    info] [             sequencer] goto r=240
+[2022-11-11 20:47:02.121] [    info] [             sequencer] start ring at z=410 and r=240
+[2022-11-11 20:48:16.192] [    info] [             sequencer] goto r=320
+[2022-11-11 20:48:24.444] [    info] [             sequencer] start ring at z=410 and r=320
+[2022-11-11 20:49:38.518] [    info] [             sequencer] goto r=400
+[2022-11-11 20:49:46.771] [    info] [             sequencer] start ring at z=410 and r=400
+[2022-11-11 20:51:01.842] [    info] [             sequencer] goto r=480
+[2022-11-11 20:51:10.105] [    info] [             sequencer] start ring at z=410 and r=480
+[2022-11-11 20:52:25.185] [    info] [             sequencer] goto r=560
+[2022-11-11 20:52:33.440] [    info] [             sequencer] start ring at z=410 and r=560
+[2022-11-11 20:53:47.512] [    info] [             sequencer] goto r=640
+[2022-11-11 20:53:55.762] [    info] [             sequencer] start ring at z=410 and r=640
+[2022-11-11 20:55:09.838] [    info] [             sequencer] goto r=720
+[2022-11-11 20:55:18.089] [    info] [             sequencer] start ring at z=410 and r=720
+[2022-11-11 20:56:32.169] [    info] [             sequencer] goto r=780
+[2022-11-11 20:56:38.422] [    info] [             sequencer] start ring at z=410 and r=780
+[2022-11-11 20:57:52.195] [    info] [             sequencer] Preparing to do an additional ring at z=-410, rho=0
+[2022-11-11 20:57:52.257] [    info] [             sequencer] goto z=-410
+[2022-11-11 20:57:52.268] [    info] [             sequencer] goto p=-5
+[2022-11-11 20:57:52.276] [    info] [             sequencer] goto rho=-5
+[2022-11-11 20:58:49.567] [    info] [             sequencer] goto p=0
+[2022-11-11 20:58:49.577] [    info] [             sequencer] goto r=0
+[2022-11-11 20:58:52.832] [    info] [             sequencer] start ring at z=-410 and r=0
+[2022-11-11 21:00:07.348] [    info] [             sequencer] the last ring is done
+[2022-11-11 21:00:07.448] [    info] [             sequencer] Start FG calibration
+[2022-11-11 21:00:10.707] [    info] [             sequencer] move to r=0
+[2022-11-11 21:00:13.976] [    info] [             sequencer] rotate phi to -5
+[2022-11-11 21:00:14.238] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 21:00:17.486] [    info] [             sequencer] start calibration cycle at rot=0
+[2022-11-11 21:00:17.527] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 21:00:53.779] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 21:01:31.036] [    info] [             sequencer] rotate Fluxgate 0->180
+[2022-11-11 21:01:43.291] [    info] [             sequencer] rotate Fluxgate done
+[2022-11-11 21:01:53.582] [    info] [             sequencer] move to r=0
+[2022-11-11 21:01:56.845] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 21:02:00.083] [    info] [             sequencer] start calibration cycle at rot=180
+[2022-11-11 21:02:00.125] [    info] [             sequencer] rotate phi to 360
+[2022-11-11 21:02:36.385] [    info] [             sequencer] rotate phi to -5
+[2022-11-11 21:03:13.619] [    info] [             sequencer] rotate Fluxgate 180->0
+[2022-11-11 21:03:32.881] [    info] [             sequencer] rotate Fluxgate done
+[2022-11-11 21:03:32.934] [    info] [             sequencer] rotate phi to 0
+[2022-11-11 21:04:02.192] [    info] [             sequencer] goto r=-10
+[2022-11-11 21:04:04.453] [    info] [             sequencer] goto r=0
