@@ -7,10 +7,10 @@ import os.path
 from map_tools import *
 
 # plot parameters
-plt.rcParams["font.size"]=10
-plt.rcParams["lines.markersize"]=3
-plt.rcParams["figure.figsize"]=[12,8]
-plt.rcParams["figure.dpi"]=200
+#plt.rcParams["font.size"]=10
+#plt.rcParams["lines.markersize"]=3
+#plt.rcParams["figure.figsize"]=[12,8]
+#plt.rcParams["figure.dpi"]=200
 
             
 class Cycle:
@@ -28,7 +28,7 @@ class Cycle:
         else:
         # in the case of binary data use getData() method
             if path==None:
-                self.path = "../maps_bin/{}_{}_000_smapper.EDMdat".format(str(run).zfill(6), str(cyc).zfill(6)) 
+                self.path = "../maps_bin/{}/{}_{}_000_smapper.EDMdat".format(str(run)[1:],str(run).zfill(6), str(cyc).zfill(6)) 
             else:
                 self.path = path
             if os.path.exists(self.path)==False:
@@ -242,7 +242,7 @@ class Cycle:
         ax.set_ylabel(r"{}".format(plotLabel(ylabel)), size=fontsize)
         ax.grid()
         
-        return fig, ax
+        return fig, ax, x, y
 
         
     def cycFit(self, bounds=None, nfit=4, minufit=False, norm=True):
